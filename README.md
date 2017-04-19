@@ -1,9 +1,14 @@
-# api documentation for  [grunt-wp-i18n (v1.0.0)](https://github.com/cedaro/grunt-wp-i18n)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-wp-i18n.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-wp-i18n) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-wp-i18n.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-wp-i18n)
+# npmdoc-grunt-wp-i18n
+
+#### api documentation for  [grunt-wp-i18n (v1.0.0)](https://github.com/cedaro/grunt-wp-i18n)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-wp-i18n.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-wp-i18n) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-wp-i18n.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-wp-i18n)
+
 #### Internationalize WordPress themes and plugins.
 
-[![NPM](https://nodei.co/npm/grunt-wp-i18n.png?downloads=true)](https://www.npmjs.com/package/grunt-wp-i18n)
+[![NPM](https://nodei.co/npm/grunt-wp-i18n.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-wp-i18n)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-wp-i18n/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-grunt-wp-i18n_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-wp-i18n/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-grunt-wp-i18n/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-grunt-wp-i18n/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-wp-i18n/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-wp-i18n/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-grunt-wp-i18n/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Brady Vercher",
-        "email": "brady@blazersix.com",
         "url": "https://www.cedaro.com/"
     },
     "bugs": {
@@ -55,13 +59,11 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "bradyvercher",
-            "email": "brady@blazersix.com"
+            "name": "bradyvercher"
         }
     ],
     "name": "grunt-wp-i18n",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/cedaro/grunt-wp-i18n.git"
@@ -72,16 +74,6 @@
     "version": "1.0.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module grunt-wp-i18n](#apidoc.module.grunt-wp-i18n)
-
-
-
-# <a name="apidoc.module.grunt-wp-i18n"></a>[module grunt-wp-i18n](#apidoc.module.grunt-wp-i18n)
 
 
 
